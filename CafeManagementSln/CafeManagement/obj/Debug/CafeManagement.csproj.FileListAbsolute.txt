@@ -1,0 +1,11 @@
+E:\C#\Projects\CafeManagementSln\CafeManagement\bin\Debug\CafeManagement.exe.config
+E:\C#\Projects\CafeManagementSln\CafeManagement\bin\Debug\CafeManagement.exe
+E:\C#\Projects\CafeManagementSln\CafeManagement\bin\Debug\CafeManagement.pdb
+E:\C#\Projects\CafeManagementSln\CafeManagement\obj\Debug\CafeManagement.csprojAssemblyReference.cache
+E:\C#\Projects\CafeManagementSln\CafeManagement\obj\Debug\CafeManagement.loginform.resources
+E:\C#\Projects\CafeManagementSln\CafeManagement\obj\Debug\CafeManagement.Properties.Resources.resources
+E:\C#\Projects\CafeManagementSln\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+E:\C#\Projects\CafeManagementSln\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+E:\C#\Projects\CafeManagementSln\CafeManagement\obj\Debug\CafeManagement.exe
+E:\C#\Projects\CafeManagementSln\CafeManagement\obj\Debug\CafeManagement.pdb
+E:\C#\Projects\CafeManagementSln\CafeManagement\obj\Debug\CafeManagement.OrderForm.resources
